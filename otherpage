@@ -24,8 +24,7 @@
 <h1>Funny jokes</h1>
 
 <div class="row">
-  <div class="row">
-  <div class="column">ho</div>
+   <div class="column">ho</div>
   <div class="column">he</div>
   <div class="column">ha</div>
 </div>
