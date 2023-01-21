@@ -1,0 +1,19 @@
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+<div class="row">
+  <div class="column">ha</div>
+  <div class="column">he</div>
+  <div class="column">ho</div>
+</div>
